@@ -1,8 +1,9 @@
-中国大陆普通研究生一枚。成绩一般，热爱计算机技术。
+My name is HuParry, and I am currently a graduate student in mainland China.
+
+I am a plugin developer for NoneBot2, and I am passionate about computer technology.
 
 QQ：3411907440
 
-邮箱：zsy@huparry.cn
+E-mail：zsy@huparry.cn | hu_parry@qq.com
 
-有任何事均可通过上面联系方式与本人取得联系。
-
+Feel free to reach out to me via the contact information above.
