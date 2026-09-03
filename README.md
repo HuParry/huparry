@@ -4,6 +4,6 @@ I am a plugin developer for NoneBot2, and I am passionate about computer technol
 
 QQ：3411907440
 
-E-mail hu_parry@qq.com
+E-mail : hu_parry@qq.com
 
 Feel free to reach out to me via the contact information above.
